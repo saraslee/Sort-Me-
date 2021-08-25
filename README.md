@@ -1,4 +1,4 @@
-# Sort Me
+# Sorting Visualizer
 
 
 ## About: 
